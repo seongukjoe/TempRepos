@@ -1,0 +1,77 @@
+
+@11:24:16.474 enableExternalTrigger(False,False)
+@11:24:17.685 wKM1024i.setFGKM:
+VH[0]=11.316
+VH[1]=11.316
+VH[2]=5.796
+VH[3]=5.98
+VH[4]=5.612
+VH[5]=5.704
+greypattern[0]=1
+greypattern[1]=1
+greypattern[2]=0
+stirtime[0]=0
+stirtime[1]=0
+firetime[0]=12
+firetime[1]=6
+firetime[2]=25
+@11:24:17.685 wKM1024i.setVolt11.316,11.316,5.796,5.98,5.612,5.704,
+@11:24:17.686 DriverCRC=0xBBB  Controller CRC=0xFFFF
+
+@11:24:17.686 setVolt CRC error
+@11:24:17.689 wDriver.enableSpitting(1,False)
+@11:24:17.690 disabled when PrintMode
+@11:24:17.695 enableExternalTrigger(True,False)
+@11:24:23.709 enableExternalTrigger(False,False)
+@11:25:36.779 enableExternalTrigger(False,False)
+@11:25:37.904 wKM1024i.setFGKM:
+VH[0]=11.316
+VH[1]=11.316
+VH[2]=5.796
+VH[3]=5.98
+VH[4]=5.612
+VH[5]=5.704
+greypattern[0]=1
+greypattern[1]=1
+greypattern[2]=0
+stirtime[0]=0
+stirtime[1]=0
+firetime[0]=12
+firetime[1]=6
+firetime[2]=25
+@11:25:37.904 wKM1024i.setVolt11.316,11.316,5.796,5.98,5.612,5.704,
+@11:25:37.906 DriverCRC=0xBC4  Controller CRC=0xFFFF
+
+@11:25:37.906 setVolt CRC error
+@11:25:37.912 wDriver.enableSpitting(1,False)
+@11:25:37.913 disabled when PrintMode
+@11:25:37.918 enableExternalTrigger(True,False)
+@11:25:39.607 enableExternalTrigger(False,False)
+@11:25:41.488 enableExternalTrigger(False,False)
+@11:25:43.226 wKM1024i.setFGKM:
+VH[0]=11.316
+VH[1]=11.316
+VH[2]=5.796
+VH[3]=5.98
+VH[4]=5.612
+VH[5]=5.704
+greypattern[0]=1
+greypattern[1]=1
+greypattern[2]=0
+stirtime[0]=0
+stirtime[1]=0
+firetime[0]=12
+firetime[1]=6
+firetime[2]=25
+@11:25:43.226 wKM1024i.setVolt11.316,11.316,5.796,5.98,5.612,5.704,
+@11:25:43.228 DriverCRC=0xBBB  Controller CRC=0xFFFF
+
+@11:25:43.228 setVolt CRC error
+@11:25:43.234 wDriver.enableSpitting(1,False)
+@11:25:43.234 disabled when PrintMode
+@11:25:43.239 enableExternalTrigger(True,False)
+@11:25:44.451 enableExternalTrigger(False,False)
+@11:25:54.529 setHeadTemperature(30.1)
+@11:25:54.529 cannot be called during printing
+@11:26:07.825 wDriver.disableHeadHeater
+@11:26:07.825 wDriver.disableHeadHeater.cannot be called during printing

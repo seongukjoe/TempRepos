@@ -1,0 +1,5 @@
+
+@11:25:54.546 setHeadTemperature(30.1)
+@11:25:54.547 setHeadTemperature(30.1)
+@11:26:07.826 wDriver.disableHeadHeater
+@11:26:07.826 wDriver.writeEnableHeadHeater.False
