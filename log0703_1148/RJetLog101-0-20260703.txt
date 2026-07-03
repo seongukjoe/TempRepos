@@ -1,0 +1,46 @@
+
+@11:43:43.215 wKM1024i.init:begin
+@11:43:43.317 wDriver.disablePrintMode
+@11:43:43.327 Connected : delaySCOMM = 41[39~42]
+@11:43:43.534 loadWaveformGainOffset.206,206,206,206,206,206,206,206,206,206,206,206,206,206,206,206
+@11:43:43.535 enableFIFO
+@11:43:43.535 detected head type = KM1024i  version = 10
+@11:43:43.535 wKM1024i.setFGKM:
+VH[0]=12
+VH[1]=12
+VH[2]=6
+VH[3]=6
+VH[4]=6
+VH[5]=6
+greypattern[0]=1
+greypattern[1]=1
+greypattern[2]=0
+stirtime[0]=0
+stirtime[1]=0
+firetime[0]=10
+firetime[1]=5
+firetime[2]=1
+@11:43:43.536 wKM1024i.setVolt12,12,6,6,6,6,
+@11:43:43.557 setGreyScale(1)
+@11:43:43.564 wDriver.setHeadHeaterGain(P=100, Ti=100
+@11:43:43.564 wDriver.disableHeadHeater
+@11:43:43.565 wDriver.writeEnableHeadHeater.False
+@11:43:43.565 wKM1024i.init:OK.
+@11:43:44.986 enableExternalTrigger(False,False)
+@11:43:45.048 wDriver.disableHeadHeater
+@11:43:45.048 wDriver.writeEnableHeadHeater.False
+@11:44:57.294 resetEncoder
+@11:45:11.877 wDriver.setHeadHeaterGain(P=200, Ti=0
+@11:45:11.878 setHeadTemperature(0.6)
+@11:45:11.878 setHeadTemperature(0.6)
+@11:45:11.883 wDriver.enableHeadHeater
+@11:45:11.883 wDriver.writeEnableHeadHeater.True
+@11:45:14.521 setHeadTemperature(30.1)
+@11:45:14.522 setHeadTemperature(30.1)
+@11:45:15.046 wDriver.setHeadHeaterGain(P=200, Ti=0
+@11:45:15.047 setHeadTemperature(30.2)
+@11:45:15.047 setHeadTemperature(30.2)
+@11:45:15.049 wDriver.enableHeadHeater
+@11:45:15.049 wDriver.writeEnableHeadHeater.True
+@11:48:17.888 wDriver.disableHeadHeater
+@11:48:17.888 wDriver.writeEnableHeadHeater.False

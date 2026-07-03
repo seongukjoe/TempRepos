@@ -1,0 +1,156 @@
+
+@11:43:42.458 wKM1024i.init:begin
+@11:43:42.571 wDriver.disablePrintMode
+@11:43:42.588 Connected : delaySCOMM = 41[39~43]
+@11:43:42.798 loadWaveformGainOffset.207,207,207,208,208,208,208,208,208,208,208,208,208,208,208,208
+@11:43:42.798 enableFIFO
+@11:43:42.799 detected head type = KM1024i  version = 10
+@11:43:42.800 wKM1024i.setFGKM:
+VH[0]=12
+VH[1]=12
+VH[2]=6
+VH[3]=6
+VH[4]=6
+VH[5]=6
+greypattern[0]=1
+greypattern[1]=1
+greypattern[2]=0
+stirtime[0]=0
+stirtime[1]=0
+firetime[0]=10
+firetime[1]=5
+firetime[2]=1
+@11:43:42.801 wKM1024i.setVolt12,12,6,6,6,6,
+@11:43:42.839 setGreyScale(1)
+@11:43:42.850 wDriver.setHeadHeaterGain(P=100, Ti=100
+@11:43:42.851 wDriver.disableHeadHeater
+@11:43:42.851 wDriver.writeEnableHeadHeater.False
+@11:43:42.852 wKM1024i.init:OK.
+@11:43:44.985 enableExternalTrigger(False,False)
+@11:43:45.042 wDriver.disableHeadHeater
+@11:43:45.042 wDriver.writeEnableHeadHeater.False
+@11:44:57.294 resetEncoder
+@11:45:11.860 wDriver.setHeadHeaterGain(P=200, Ti=0
+@11:45:11.862 setHeadTemperature(0.6)
+@11:45:11.862 setHeadTemperature(0.6)
+@11:45:11.868 wDriver.enableHeadHeater
+@11:45:11.868 wDriver.writeEnableHeadHeater.True
+@11:45:14.506 setHeadTemperature(30.1)
+@11:45:14.506 setHeadTemperature(30.1)
+@11:45:15.029 wDriver.setHeadHeaterGain(P=200, Ti=0
+@11:45:15.029 setHeadTemperature(30.2)
+@11:45:15.029 setHeadTemperature(30.2)
+@11:45:15.034 wDriver.enableHeadHeater
+@11:45:15.035 wDriver.writeEnableHeadHeater.True
+@11:45:47.964 enableExternalTrigger(False,False)
+@11:45:49.347 wKM1024i.setFGKM:
+VH[0]=11.07
+VH[1]=11.07
+VH[2]=5.49
+VH[3]=5.58
+VH[4]=5.58
+VH[5]=5.76
+greypattern[0]=1
+greypattern[1]=1
+greypattern[2]=0
+stirtime[0]=0
+stirtime[1]=0
+firetime[0]=12
+firetime[1]=6
+firetime[2]=25
+@11:45:49.347 wKM1024i.setVolt11.07,11.07,5.49,5.58,5.58,5.76,
+@11:45:49.385 setGreyScale(1)
+@11:45:49.399 wDriver.enableSpitting(1,False)
+@11:45:49.400 wDriver.beginWritePixel
+@11:45:49.401 wDriver.writePixel.nPixel=1
+@11:45:49.402 wDriver.readMCUStatus.wp=0 rp=0
+@11:45:49.503 wDriver.readMCUStatus.wp=67 rp=67
+@11:45:49.503 isWritePixelFinished.write=67  read=67
+@11:45:49.504 isWritePixelFinished.OK
+@11:45:49.505 wDrvier.startPrinting @-100023
+@11:45:49.518 enableExternalTrigger(True,False)
+@11:45:52.174 enableExternalTrigger(False,False)
+@11:45:56.764 enableExternalTrigger(False,False)
+@11:45:58.025 wKM1024i.setFGKM:
+VH[0]=11.07
+VH[1]=11.07
+VH[2]=5.49
+VH[3]=5.58
+VH[4]=5.58
+VH[5]=5.76
+greypattern[0]=1
+greypattern[1]=1
+greypattern[2]=0
+stirtime[0]=0
+stirtime[1]=0
+firetime[0]=12
+firetime[1]=6
+firetime[2]=25
+@11:45:58.025 wKM1024i.setVolt11.07,11.07,5.49,5.58,5.58,5.76,
+@11:45:58.027 DriverCRC=0xBC5  Controller CRC=0xFFFF
+
+@11:45:58.027 setVolt CRC error
+@11:45:58.030 wDriver.enableSpitting(1,False)
+@11:45:58.030 disabled when PrintMode
+@11:45:58.035 enableExternalTrigger(True,False)
+@11:46:00.732 enableExternalTrigger(False,False)
+@11:46:03.293 enableExternalTrigger(False,False)
+@11:46:04.980 wKM1024i.setFGKM:
+VH[0]=11.07
+VH[1]=11.07
+VH[2]=5.49
+VH[3]=5.58
+VH[4]=5.58
+VH[5]=5.76
+greypattern[0]=1
+greypattern[1]=1
+greypattern[2]=0
+stirtime[0]=0
+stirtime[1]=0
+firetime[0]=12
+firetime[1]=6
+firetime[2]=25
+@11:46:04.981 wKM1024i.setVolt11.07,11.07,5.49,5.58,5.58,5.76,
+@11:46:04.982 DriverCRC=0xBC6  Controller CRC=0xFFFF
+
+@11:46:04.982 setVolt CRC error
+@11:46:04.986 wDriver.enableSpitting(1,False)
+@11:46:04.986 disabled when PrintMode
+@11:46:04.991 enableExternalTrigger(True,False)
+@11:46:07.128 enableExternalTrigger(False,False)
+@11:46:13.450 setHeadTemperature(0.3)
+@11:46:13.450 cannot be called during printing
+@11:46:13.455 wDriver.disableHeadHeater
+@11:46:13.456 wDriver.disableHeadHeater.cannot be called during printing
+@11:47:30.532 enableExternalTrigger(False,False)
+@11:47:31.634 wKM1024i.setFGKM:
+VH[0]=11.07
+VH[1]=11.07
+VH[2]=5.49
+VH[3]=5.58
+VH[4]=5.58
+VH[5]=5.76
+greypattern[0]=1
+greypattern[1]=1
+greypattern[2]=0
+stirtime[0]=0
+stirtime[1]=0
+firetime[0]=12
+firetime[1]=6
+firetime[2]=25
+@11:47:31.635 wKM1024i.setVolt11.07,11.07,5.49,5.58,5.58,5.76,
+@11:47:31.636 DriverCRC=0xBC5  Controller CRC=0xFFFF
+
+@11:47:31.637 setVolt CRC error
+@11:47:31.640 wDriver.enableSpitting(1,False)
+@11:47:31.640 disabled when PrintMode
+@11:47:31.644 enableExternalTrigger(True,False)
+@11:47:36.511 enableExternalTrigger(False,False)
+@11:47:38.181 setHeadTemperature(-5.55111512312578E-17)
+@11:47:38.181 cannot be called during printing
+@11:47:47.140 setHeadTemperature(0.3)
+@11:47:47.141 cannot be called during printing
+@11:47:47.147 wDriver.disableHeadHeater
+@11:47:47.147 wDriver.disableHeadHeater.cannot be called during printing
+@11:48:17.884 wDriver.disableHeadHeater
+@11:48:17.884 wDriver.disableHeadHeater.cannot be called during printing
